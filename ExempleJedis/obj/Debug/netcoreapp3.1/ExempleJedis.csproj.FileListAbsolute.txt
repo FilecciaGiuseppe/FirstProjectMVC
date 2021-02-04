@@ -1,0 +1,9 @@
+C:\Users\giuse\source\repos\JeuDontOnEstLeHerosSuite\ExempleJedis\bin\Debug\netcoreapp3.1\ExempleJedis.deps.json
+C:\Users\giuse\source\repos\JeuDontOnEstLeHerosSuite\ExempleJedis\bin\Debug\netcoreapp3.1\ExempleJedis.dll
+C:\Users\giuse\source\repos\JeuDontOnEstLeHerosSuite\ExempleJedis\bin\Debug\netcoreapp3.1\ExempleJedis.pdb
+C:\Users\giuse\source\repos\JeuDontOnEstLeHerosSuite\ExempleJedis\obj\Debug\netcoreapp3.1\ExempleJedis.csprojAssemblyReference.cache
+C:\Users\giuse\source\repos\JeuDontOnEstLeHerosSuite\ExempleJedis\obj\Debug\netcoreapp3.1\ExempleJedis.AssemblyInfoInputs.cache
+C:\Users\giuse\source\repos\JeuDontOnEstLeHerosSuite\ExempleJedis\obj\Debug\netcoreapp3.1\ExempleJedis.AssemblyInfo.cs
+C:\Users\giuse\source\repos\JeuDontOnEstLeHerosSuite\ExempleJedis\obj\Debug\netcoreapp3.1\ExempleJedis.csproj.CoreCompileInputs.cache
+C:\Users\giuse\source\repos\JeuDontOnEstLeHerosSuite\ExempleJedis\obj\Debug\netcoreapp3.1\ExempleJedis.dll
+C:\Users\giuse\source\repos\JeuDontOnEstLeHerosSuite\ExempleJedis\obj\Debug\netcoreapp3.1\ExempleJedis.pdb

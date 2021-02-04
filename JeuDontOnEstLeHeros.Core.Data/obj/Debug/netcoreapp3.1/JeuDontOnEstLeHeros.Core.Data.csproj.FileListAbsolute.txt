@@ -1,0 +1,14 @@
+C:\Users\giuse\source\repos\JeuDontOnEstLeHerosSuite\JeuDontOnEstLeHeros.Core.Data\bin\Debug\netcoreapp3.1\JeuDontOnEstLeHeros.Core.Data.deps.json
+C:\Users\giuse\source\repos\JeuDontOnEstLeHerosSuite\JeuDontOnEstLeHeros.Core.Data\bin\Debug\netcoreapp3.1\JeuDontOnEstLeHeros.Core.Data.dll
+C:\Users\giuse\source\repos\JeuDontOnEstLeHerosSuite\JeuDontOnEstLeHeros.Core.Data\bin\Debug\netcoreapp3.1\JeuDontOnEstLeHeros.Core.Data.pdb
+C:\Users\giuse\source\repos\JeuDontOnEstLeHerosSuite\JeuDontOnEstLeHeros.Core.Data\obj\Debug\netcoreapp3.1\JeuDontOnEstLeHeros.Core.Data.AssemblyInfoInputs.cache
+C:\Users\giuse\source\repos\JeuDontOnEstLeHerosSuite\JeuDontOnEstLeHeros.Core.Data\obj\Debug\netcoreapp3.1\JeuDontOnEstLeHeros.Core.Data.AssemblyInfo.cs
+C:\Users\giuse\source\repos\JeuDontOnEstLeHerosSuite\JeuDontOnEstLeHeros.Core.Data\obj\Debug\netcoreapp3.1\JeuDontOnEstLeHeros.Core.Data.dll
+C:\Users\giuse\source\repos\JeuDontOnEstLeHerosSuite\JeuDontOnEstLeHeros.Core.Data\obj\Debug\netcoreapp3.1\JeuDontOnEstLeHeros.Core.Data.pdb
+C:\Users\giuse\source\repos\JeuDontOnEstLeHerosSuite\JeuDontOnEstLeHeros.Core.Data\obj\Debug\netcoreapp3.1\JeuDontOnEstLeHeros.Core.Data.csproj.CoreCompileInputs.cache
+C:\Users\giuse\source\repos\JeuDontOnEstLeHerosSuite\JeuDontOnEstLeHeros.Core.Data\bin\Debug\netcoreapp3.1\JeuDontOnEstLeHeros.Core.Data.runtimeconfig.json
+C:\Users\giuse\source\repos\JeuDontOnEstLeHerosSuite\JeuDontOnEstLeHeros.Core.Data\bin\Debug\netcoreapp3.1\JeuDontOnEstLeHeros.Core.Data.runtimeconfig.dev.json
+C:\Users\giuse\source\repos\JeuDontOnEstLeHerosSuite\JeuDontOnEstLeHeros.Core.Data\obj\Debug\netcoreapp3.1\JeuDontOnEstLeHeros.Core.Data.genruntimeconfig.cache
+C:\Users\giuse\source\repos\JeuDontOnEstLeHerosSuite\JeuDontOnEstLeHeros.Core.Data\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\giuse\source\repos\JeuDontOnEstLeHerosSuite\JeuDontOnEstLeHeros.Core.Data\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\giuse\source\repos\JeuDontOnEstLeHerosSuite\JeuDontOnEstLeHeros.Core.Data\obj\Debug\netcoreapp3.1\JeuDontOnEstLeHeros.Core.Data.csprojAssemblyReference.cache
